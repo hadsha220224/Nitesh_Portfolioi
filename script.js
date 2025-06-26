@@ -1,4 +1,3 @@
-// script.js - With working contact form to niteshsde1@gmail.com using Formspree
 
 // Smooth scroll for internal links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
